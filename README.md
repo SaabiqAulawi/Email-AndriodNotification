@@ -9,8 +9,6 @@ Android notification for each unread email.
 Open the project in Android Studio, build it, install it, and exempt it from
 battery optimization. Gmail users should use an App Password and enable IMAP.
 
-The original `app.py` remains available as the server/Twilio version.
-
 ## Android setup
 
 1. Enable IMAP for the email account. For Gmail, create an **App Password**; do not use your normal account password.
@@ -21,11 +19,3 @@ The original `app.py` remains available as the server/Twilio version.
 The foreground service checks every 60 seconds. When it finds an unread
 message, it posts a high-priority notification containing the sender, subject,
 and body. The email is marked read after the notification is posted.
-
-## Original Python version
-
-The original server/Twilio version can still be run with:
-
-```powershell
-python app.py
-```
