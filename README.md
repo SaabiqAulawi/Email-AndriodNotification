@@ -8,6 +8,10 @@ Android notification for each unread email.
 
 Open the project in Android Studio, build it, install it, and exempt it from
 battery optimization. Gmail users should use an App Password and enable IMAP.
+Open the project root (the folder containing `settings.gradle`), not the
+`app/src/main/java` folder. Android Studio must complete **Sync Project with
+Gradle Files** before Java files under `app/src/main/java` are opened; otherwise
+the editor can report missing mandatory classpath entries.
 
 ## Android setup
 
