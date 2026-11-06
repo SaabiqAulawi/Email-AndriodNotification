@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.emailtowhatsapp-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.emailtowhatsapp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\RETNO PURWANI SARI\\.gradle\\daemon\\9.6.0\\com.example.emailtowhatsapp-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\RETNO PURWANI SARI\\.gradle\\daemon\\9.6.0\\com.example.emailtowhatsapp-main-33:\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+id btnBatteryOpt
+id imapHost
+id password
+id start
+id stop
+id tvBatteryStatus
+id tvResilienceInfo
+id tvServiceStatus
+id username
+layout activity_main
+style AppTheme

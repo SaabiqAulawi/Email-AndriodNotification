@@ -1,0 +1,34 @@
+com.example.emailtowhatsapp-jetified-tracing-1.2.0-0 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\01a64bb320c5fa62c7d233c7b6a62fa0\transformed\jetified-tracing-1.2.0\res
+com.example.emailtowhatsapp-work-runtime-2.10.0-1 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\07bb5644fa7e37f27cbdafb0695e7053\transformed\work-runtime-2.10.0\res
+com.example.emailtowhatsapp-lifecycle-runtime-2.6.2-2 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\07c2b2584d222c11b953902070b42189\transformed\lifecycle-runtime-2.6.2\res
+com.example.emailtowhatsapp-jetified-profileinstaller-1.3.1-3 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\1df6a1e71b25210444261845bf453af0\transformed\jetified-profileinstaller-1.3.1\res
+com.example.emailtowhatsapp-core-1.15.0-4 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\1e47a42f79b6e94a3a1c96648bdc78b7\transformed\core-1.15.0\res
+com.example.emailtowhatsapp-lifecycle-viewmodel-2.6.2-5 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\1f5602509f7257dda41de7dfdb2a4a1d\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.emailtowhatsapp-jetified-lifecycle-viewmodel-savedstate-2.6.2-6 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\22c6ada77f398225031260a51364f80b\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.emailtowhatsapp-sqlite-framework-2.4.0-7 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\2dd09c19f12e234ee36849cf9fae0b6a\transformed\sqlite-framework-2.4.0\res
+com.example.emailtowhatsapp-jetified-annotation-experimental-1.4.1-8 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\2e69e9c8b807c9f68b7094abde5c99b8\transformed\jetified-annotation-experimental-1.4.1\res
+com.example.emailtowhatsapp-lifecycle-livedata-2.6.2-9 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\3015b19a82ea36497f18e49919c5697b\transformed\lifecycle-livedata-2.6.2\res
+com.example.emailtowhatsapp-jetified-emoji2-views-helper-1.3.0-10 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\4452d0f78d88fdb34622249facfabd07\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.example.emailtowhatsapp-jetified-appcompat-resources-1.7.0-11 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\570e0aad8a39a216c2186ab4812de1eb\transformed\jetified-appcompat-resources-1.7.0\res
+com.example.emailtowhatsapp-jetified-core-ktx-1.15.0-12 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\5719d861d2c588bf782ad84b1f565eef\transformed\jetified-core-ktx-1.15.0\res
+com.example.emailtowhatsapp-jetified-emoji2-1.3.0-13 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\573412a8ed7e39f4dcc68a53e58b216d\transformed\jetified-emoji2-1.3.0\res
+com.example.emailtowhatsapp-jetified-tracing-ktx-1.2.0-14 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\75acb81d95df853a87562a4836e96285\transformed\jetified-tracing-ktx-1.2.0\res
+com.example.emailtowhatsapp-room-runtime-2.6.1-15 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\8e16e2b8154e71202a7c19e438d8bd46\transformed\room-runtime-2.6.1\res
+com.example.emailtowhatsapp-fragment-1.5.4-16 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\9100779278fb5dab1e61068107b968ae\transformed\fragment-1.5.4\res
+com.example.emailtowhatsapp-jetified-startup-runtime-1.1.1-17 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\9e00fa4c148a84ea610230f2532c52ae\transformed\jetified-startup-runtime-1.1.1\res
+com.example.emailtowhatsapp-appcompat-1.7.0-18 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\a3b298995f364be6939f75c9f03d3f86\transformed\appcompat-1.7.0\res
+com.example.emailtowhatsapp-sqlite-2.4.0-19 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\bb1f6eb38ae145cf34d1bc49e958a4df\transformed\sqlite-2.4.0\res
+com.example.emailtowhatsapp-lifecycle-livedata-core-2.6.2-20 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\bf27c1ad2d0ab48ff46a5e5336ae7b9f\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.emailtowhatsapp-jetified-lifecycle-process-2.6.2-21 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\bf866f21ce45f771b6ea3406ee155be4\transformed\jetified-lifecycle-process-2.6.2\res
+com.example.emailtowhatsapp-jetified-savedstate-1.2.1-22 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\d18223ac6337be15272888a6c9d69e14\transformed\jetified-savedstate-1.2.1\res
+com.example.emailtowhatsapp-core-runtime-2.2.0-23 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\d57dc439651d87e89a59cbacd568f11c\transformed\core-runtime-2.2.0\res
+com.example.emailtowhatsapp-jetified-activity-1.7.0-24 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\d7877572fa5900e4d01e083d5fd095b3\transformed\jetified-activity-1.7.0\res
+com.example.emailtowhatsapp-jetified-lifecycle-service-2.6.2-25 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\e90037aaaf1e8f790bd2bae1b4729e7b\transformed\jetified-lifecycle-service-2.6.2\res
+com.example.emailtowhatsapp-jetified-room-ktx-2.6.1-26 C:\Users\RETNO PURWANI SARI\.gradle\caches\9.6.0\transforms\e9aa30c7ee4496d6c8c992cfc2e26bbb\transformed\jetified-room-ktx-2.6.1\res
+com.example.emailtowhatsapp-pngs-27 D:\Project Mandiri\Auto Forward Email to WhatsApp\app\build\generated\res\pngs\debug
+com.example.emailtowhatsapp-resValues-28 D:\Project Mandiri\Auto Forward Email to WhatsApp\app\build\generated\res\resValues\debug
+com.example.emailtowhatsapp-packageDebugResources-29 D:\Project Mandiri\Auto Forward Email to WhatsApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.emailtowhatsapp-packageDebugResources-30 D:\Project Mandiri\Auto Forward Email to WhatsApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.emailtowhatsapp-debug-31 D:\Project Mandiri\Auto Forward Email to WhatsApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.emailtowhatsapp-debug-32 D:\Project Mandiri\Auto Forward Email to WhatsApp\app\src\debug\res
+com.example.emailtowhatsapp-main-33 D:\Project Mandiri\Auto Forward Email to WhatsApp\app\src\main\res
